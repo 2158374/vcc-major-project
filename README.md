@@ -1,4 +1,4 @@
-# Cloud-based AI-Driven Cyber Threat Intelligence Platform 🚨☁️
+# Cloud-based AI-Driven Cyber Threat Intelligence Platform
 
 This project implements a real-time, scalable, AI-powered cybersecurity platform using *Google Cloud Platform (GCP). It leverages services like **Vertex AI, **BigQuery, **Pub/Sub, and **Cloud Functions* to detect and respond to network threats with high accuracy and low latency.
 
@@ -16,7 +16,7 @@ This platform addresses these challenges by providing:
 
 ---
 
-## 🚀 Project Highlights
+## Project Highlights
 
 - *Vertex AI* for ML-based anomaly detection  
 - *BigQuery* and *Cloud Storage* for data storage  
@@ -38,7 +38,7 @@ This platform addresses these challenges by providing:
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - *Google Cloud Platform (GCP)*:
   - Vertex AI
@@ -53,7 +53,7 @@ This platform addresses these challenges by providing:
 
 ---
 
-## 🔧 How It Works
+## How It Works
 
 1. *Ingest Logs* from VPC Flow, Cloud Audit, and system logs  
 2. *Store Logs* in BigQuery and Cloud Storage  
