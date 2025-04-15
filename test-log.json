@@ -1,0 +1,6 @@
+echo '{
+    "src_ip": "192.168.10.5",
+    "dest_ip": "10.0.0.1",
+    "bytes_sent": 1500,
+    "bytes_received": 3000
+  }'
